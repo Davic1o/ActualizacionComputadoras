@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNNOrdenadores", "CNNOrdenadores\CNNOrdenadores.csproj", "{976ACB5C-DF3D-46F5-80DE-D62AB951D65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPOrdenadores", "CPOrdenadores\CPOrdenadores.csproj", "{655D2DF3-0F9D-4E83-BF50-F9D23366C04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976ACB5C-DF3D-46F5-80DE-D62AB951D65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976ACB5C-DF3D-46F5-80DE-D62AB951D65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976ACB5C-DF3D-46F5-80DE-D62AB951D65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976ACB5C-DF3D-46F5-80DE-D62AB951D65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655D2DF3-0F9D-4E83-BF50-F9D23366C04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655D2DF3-0F9D-4E83-BF50-F9D23366C04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655D2DF3-0F9D-4E83-BF50-F9D23366C04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655D2DF3-0F9D-4E83-BF50-F9D23366C04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E86D530-8E20-42F8-A5F6-FD28CC6CD8F6}
+	EndGlobalSection
+EndGlobal
